@@ -1,2 +1,2 @@
 # Statistique-et-Informatique
-Projet de simulation d'une épidémie à l'aide du modèle de Markov
+Chaines de Markov et épidémiologie : modélisation de la propagagtion d'une épidémie dans une population
